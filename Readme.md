@@ -2,7 +2,7 @@
 
 Automatically issue Let's Encrypt SSL certificates for all your custom domain names in Azure.
 
-![.github/workflows/azure-functionapp.yml](https://github.com/MarcStan/lets-encrypt-azure/workflows/.github/workflows/azure-functionapp.yml/badge.svg)
+![.github/workflows/azure-functionapp.yml](https://github.com/rubenhillstar/lets-encrypt-azure/workflows/.github/workflows/azure-functionapp.yml/badge.svg)
 
 # Motivation
 
