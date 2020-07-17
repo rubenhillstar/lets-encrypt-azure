@@ -4,7 +4,7 @@ on:
       - master
 
 env:
-  ResourceGroup: mkdocsmd
+  ResourceGroup: mkdocs744568653274546648
 jobs:
   build:
     runs-on: ubuntu-latest
